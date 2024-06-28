@@ -114,6 +114,11 @@
 [![Trello](https://img.shields.io/badge/Trello-026AA7?style=for-the-badge&logo=trello&logoColor=white)]()
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)]()
 
+
+#### Certification
+
+[![AWS Certified Solutions Architect - Associate](https://img.shields.io/badge/AWS_Certified_Solutions_Architect_–_Associate-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)]()
+
 <!-- #### Others:
 
 [![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]()
@@ -128,7 +133,7 @@
 [![Vagrant](https://img.shields.io/badge/Vagrant-1563FF?style=for-the-badge&logo=vagrant&logoColor=white)]()
 [![Webots](https://img.shields.io/badge/Webots-222222?style=for-the-badge&logoColor=white)]() -->
 
-<br><br><br>
+<br><br>
 
 # 📊Stats:
 
