@@ -117,7 +117,7 @@
 
 #### Certification
 
-[![AWS Certified Solutions Architect - Associate](https://img.shields.io/badge/AWS_Certified_Solutions_Architect_–_Associate-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)]()
+[![AWS Certified Solutions Architect - Associate](https://img.shields.io/badge/AWS_Certified_Solutions_Architect_–_Associate-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)](https://www.credly.com/badges/f961b633-8e9f-4cd1-83ad-02ec5a97be61/linked_in_profile)
 
 <!-- #### Others:
 
